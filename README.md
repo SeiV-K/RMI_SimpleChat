@@ -38,6 +38,6 @@ RunServer.exe password is 'server'
 RunClient.exe password is 'client'
 ```
 
-![PoC](release/video.gif)
+![PoC](Release/video.gif)
 
-##### Happy Coding!
+# Happy Coding!
